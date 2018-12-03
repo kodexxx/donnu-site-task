@@ -17,7 +17,7 @@
 
 ## Демо
 
-[Перейти](https://potterua.github.io)
+[Перейти](https://potterua.github.io/donnu-site-task/)
 
 ## Команди
 
