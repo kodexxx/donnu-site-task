@@ -19,6 +19,11 @@
 
 [Перейти](https://potterua.github.io)
 
+## Команди
+
+- `yarn start` запустити сервер WebPack з автоматичним перевентаженням сторінки
+- `yarn build` збілдити проект
+
 ## Ліценія
 
 GPLv3 (GNU General Public License Version 3)
