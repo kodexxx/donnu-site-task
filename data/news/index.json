@@ -14,14 +14,14 @@
   {
     "imgSrc": "./img/portfolio-2.jpg",
     "heading": {
-      "en": "Second news",
-      "ua": "Друга новина"
+      "en": "Very interesting post",
+      "ua": "Дуже цікавий пост"
     },
     "description": {
       "en": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour",
       "ua": "Існує багато варіацій уривків з Lorem Ipsum, але більшість з них зазнала певних змін на кшталт жартівливих вставок або змішування слів, які навіть не виглядають правдоподібно. "
     },
-    "id": "firts-news"
+    "id": "very-interesting-post"
   },
   {
     "imgSrc": "./img/portfolio-3.jpg",
