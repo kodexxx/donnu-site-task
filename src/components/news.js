@@ -4,7 +4,7 @@ import axios from 'axios';
 
 import nprogress from 'nprogress'
 
-import {Link} from 'react-router-dom'
+import { Link } from 'react-router-dom'
 
 class PortfolioSection extends React.Component {
 
@@ -18,10 +18,10 @@ class PortfolioSection extends React.Component {
 
   componentWillMount() {
     axios.get('/data/news/index.json')
-    .then(res => {
-      this.setState({news: res.data})
-      nprogress.done()
-    })
+      .then(res => {
+        this.setState({ news: res.data })
+        nprogress.done()
+      })
     nprogress.start()
   }
 

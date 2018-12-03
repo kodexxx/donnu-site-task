@@ -36,7 +36,7 @@ class Header extends React.Component {
           {locale.about[lang]}
         </button>
       </div>
-      <Modal visible={this.state.visible} width="500"  effect="fadeInUp" onClickAway={() => this.closeModal()}>
+      <Modal visible={this.state.visible} width="500" effect="fadeInUp" onClickAway={() => this.closeModal()}>
         <div style={{ padding: '20px', textAlign: 'center' }}>
           <h2>{locale.about[lang]}</h2>
           <p>{locale.about_descr[lang]}</p>
