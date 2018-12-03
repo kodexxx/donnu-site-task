@@ -17,4 +17,4 @@
 
 ## Демо
 
-[Перейти](http://potterua.github.io)
+[Перейти](https://potterua.github.io)
