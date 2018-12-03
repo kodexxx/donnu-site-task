@@ -18,3 +18,7 @@
 ## Демо
 
 [Перейти](https://potterua.github.io)
+
+## Ліценія
+
+GPLv3 (GNU General Public License Version 3)
