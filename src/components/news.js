@@ -17,7 +17,7 @@ class PortfolioSection extends React.Component {
   }
 
   componentWillMount() {
-    axios.get('/data/news/index.json')
+    axios.get('./data/news/index.json')
       .then(res => {
         this.setState({ news: res.data })
         nprogress.done()

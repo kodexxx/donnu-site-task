@@ -21,7 +21,7 @@ class newsViewer extends React.Component {
     document.title = locale.menu.news[this.state.lang]
   }
   loadPost(id, lang) {
-    axios.get(`/data/news/${id}_${lang}.md`)
+    axios.get(`./data/news/${id}_${lang}.md`)
       .then(resp => {
         this.setState({ content: marked(resp.data) })
         nprogress.done()
